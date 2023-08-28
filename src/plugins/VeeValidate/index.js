@@ -3,3 +3,8 @@
 // EMPTY
 // EMAIL
 // PASSWORD
+// CNPJ
+// CEL
+// MIN
+// MAX
+// BETWEEN
