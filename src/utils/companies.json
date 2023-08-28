@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Empresa A",
+    "category": "Tecnologia",
+    "city": "São Paulo",
+    "state": "SP",
+    "email": "contato@empresaA.com",
+    "representative": "João Silva",
+    "latitude": -23.55052,
+    "longitude": -46.633308
+  },
+  {
+    "name": "Empresa B",
+    "category": "Saúde",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "email": "contato@empresaB.com",
+    "representative": "Maria Oliveira",
+    "latitude": -23.55052,
+    "longitude": -46.733308
+  },
+  {
+    "name": "Empresa C",
+    "category": "Educação",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "email": "contato@empresaC.com",
+    "representative": "Pedro Costa",
+    "latitude": -23.56052,
+    "longitude": -46.536308
+  },
+  {
+    "name": "Empresa D",
+    "category": "Alimentação",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "email": "contato@empresaD.com",
+    "representative": "Ana Santos",
+    "latitude": -23.59045,
+    "longitude": -46.63339
+  },
+  {
+    "name": "Empresa E",
+    "category": "Moda",
+    "city": "Salvador",
+    "state": "BA",
+    "email": "contato@empresaE.com",
+    "representative": "Lucas Lima",
+    "latitude": -23.55915,
+    "longitude": -46.63479
+  }
+]
