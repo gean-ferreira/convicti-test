@@ -1,9 +1,9 @@
 <template>
-  <h1>Home</h1>
+  <Welcome />
 </template>
 
 <script setup>
+  import Welcome from '@/components/sections/Welcome.vue'
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
