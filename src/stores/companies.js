@@ -6,6 +6,7 @@ export const useCompaniesStore = defineStore({
   id: 'companies',
   state: () => ({
     companies: companiesJSON,
+    activeCompany: null
   }),
   actions: {
     updateActiveCompany(company) {
